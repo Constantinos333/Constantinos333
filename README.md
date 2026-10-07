@@ -38,7 +38,7 @@ My public portfolio repository, being rebuilt around verifiable engineering work
 - IT support and technical troubleshooting
 - Networking fundamentals from completed CCNA coursework
 - Manual machining and precision measurement
-- Growing practical experience in electronics and RF
+- Member of the Cyprus Amateur Radio Society (CARS), preparing for the amateur radio licensing examination
 
 ## Engineering approach
 
@@ -51,6 +51,11 @@ Those states should not be treated as interchangeable. Where possible, future re
 ## Direction
 
 Long term, I am developing toward work in RF/microwave, defence and space systems, communications, radar, embedded electronics, and related deep-tech engineering.
+
+## Links
+
+- [LinkedIn](https://cy.linkedin.com/in/constantinos-charalampous)
+- [Engineering Portfolio](https://github.com/Constantinos333/Portfolio)
 
 ---
 
